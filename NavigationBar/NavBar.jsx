@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { FaTwitter, FaGithub } from 'react-icons/fa';
-import styles from './NavBar.css';
+import styles from './NavBar.module.css';
 
 const Menu = () => {
   return (
