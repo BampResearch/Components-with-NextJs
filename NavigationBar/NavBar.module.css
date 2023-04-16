@@ -15,9 +15,8 @@
   
   @media screen and (max-width: 600px) {
     .menucontainer {
-      padding: 10px; /* Cambia el valor del padding según tu necesidad */
-      border-radius: 40px; /* Cambia el valor del border-radius según tu necesidad */
-      /* Agrega cualquier otra propiedad CSS necesaria para hacer más pequeño el menú */
+      padding: 10px;
+      border-radius: 40px;
     }
     .menucontainer a {
       margin: 0px 2px;
