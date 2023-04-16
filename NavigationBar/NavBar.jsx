@@ -8,8 +8,8 @@ const Menu = () => {
       <ul>
         <li className={styles.menuitem2}>anmp. 👋</li>
         <li className={styles.menuitem}><Link href="/">Home</Link></li>
-        <li className={styles.menuitem}><Link href="/aboutus">About</Link></li>
-        <li className={styles.menuitem}><Link href="#">Tools</Link></li>
+        <li className={styles.menuitem}><Link href="/">About</Link></li>
+        <li className={styles.menuitem}><Link href="/">Tools</Link></li>
         <li className={styles.menuitem3}><Link href="https://twitter.com/heyanmp"><FaTwitter /></Link></li>
         <li className={styles.menuitem3}><Link target="_blank" href="https://github.com/heyanmp"><FaGithub /></Link></li>
       </ul>
